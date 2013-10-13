@@ -1,0 +1,8 @@
+[submodule "fastMM"]
+	path = fastMM
+	owner = /
+	url = https://svn.code.sf.net/p/fastmm/code
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
